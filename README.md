@@ -1,4 +1,8 @@
 # Anomaly Detection
+Name : David Ehevich ID: 212757405
+
+Name : Liel Zilberman ID: 212480974
+
 Running the docker :
 
 first enter the StreamlitApp directory and enter the next commands:
