@@ -1,5 +1,6 @@
 # Anomaly Detection
 Running the docker :
+
 first enter the StreamlitApp directory and enter the next commands:
 
 1.pipenv install streamlit pandas
