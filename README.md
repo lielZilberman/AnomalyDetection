@@ -15,4 +15,15 @@ first enter the StreamlitApp directory and enter the next commands:
 
 After entering this commands you should have the docker built and deployed.
 
+Confusion Matrix:
+
+We thought we just needed to create a csv with 3 columns , record ID | ALGORITHM RESULT | LABLED GIVEN RESULT | ERROR
+
+ERROR is if the algorithm result didn't match the labled given result.
+
+result.csv:
+
+a csv with the results of our algorithm , same structure as the labled csv.
+
+
 
