@@ -3,9 +3,9 @@ Name : David Ehevich ID: 212757405
 
 Name : Liel Zilberman ID: 212480974
 
-Running the docker :
+Running the docker : 
 
-first enter the StreamlitApp directory and enter the next commands:
+First install and enter the StreamlitApp directory and enter the next commands:
 
 1.pipenv install streamlit pandas
 
